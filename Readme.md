@@ -68,4 +68,3 @@ module.exports = '<div class="tip">\n  <div class="tip-message">\'Message here\'
 
 
 
-
