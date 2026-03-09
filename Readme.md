@@ -1,4 +1,4 @@
-# string-to-js
+# Node string to JS .
 
   Make plain text (HTML, CSS, JSON, etc) require()-able.
 ## Installation
