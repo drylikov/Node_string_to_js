@@ -1,7 +1,6 @@
 # string-to-js
 
   Make plain text (HTML, CSS, JSON, etc) require()-able.
-
 ## Installation
 
    $ npm install string-to-js
@@ -38,7 +37,6 @@ output js string:
 ```js
 module.exports = '<div class="tip">\n  <div class="tip-message">\'Message here\'</div>\n</div>';
 ```
-
 
 
 
